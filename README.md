@@ -13,7 +13,10 @@
 
 ### Contact me:
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">](https://www.linkedin.com/in/andrew-lawendy/)
+[![Linkedin Badge](https://img.shields.io/badge/-Andrew%20Lawendy-0a66c2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-lawendy "Connect on LinkedIn")
+[![Codepen Badge](https://img.shields.io/badge/-Andrew%20Lawendy-000?logo=Codepen&logoColor=white)](https://codepen.io/andrew-lawendy "Connect on Codepen")
+[![Twitter Badge](https://img.shields.io/badge/-Andrew%20Lawendy-1d9bf0?logo=Twitter&logoColor=white)](https://twitter.com/andrew_lawendy "Connect on Codepen")
+
 <br />
 
 ### Languages and Tools:
