@@ -11,7 +11,7 @@ Hi there 👋 my name is Andrew
 
 <br />
 
-### Contact me
+### Contact me 🤙
 
 [![Codepen Badge](https://img.shields.io/badge/-Andrew%20Lawendy-000?logo=Codepen&logoColor=white)](https://codepen.io/andrew-lawendy "Connect on Codepen")
 [![Behance Badge](https://img.shields.io/badge/-Andrew%20Lawendy-1769FF?logo=Behance&logoColor=white)](https://www.behance.net/androhani/ "Connect on Behance")
@@ -20,7 +20,7 @@ Hi there 👋 my name is Andrew
 
 <br />
 
-### Languages and Tools
+### Languages and Tools 🛠️
 
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -29,6 +29,7 @@ Hi there 👋 my name is Andrew
 <img align="left" alt="Theme UI" title="Theme UI" width="26px" src="https://theme-ui.com/icon.png" />
 <img align="left" alt="Emotion" title="Emotion" width="26px" src="https://emotion.sh/favicons/favicon-32x32.png" />
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" title="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Angular" title="Angular" width="26px" src="https://angular.io/assets/images/favicons/favicon.ico" />
 <img align="left" alt="Angular Material" title="Angular Material" width="26px" src="https://material.angular.io/assets/img/favicons/favicon-32x32.png?v=8.2.3" />
 <img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
