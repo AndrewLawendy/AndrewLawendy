@@ -4,6 +4,8 @@ Hi there 👋 my name is Andrew
 
 <img align="right" alt="Dev" src="./assets/dev.jpg" width="300" />
 
+<br />
+
 - ✍ Founder of [CSS Guru](https://www.cssguru.org/)
 - 👯 I’m looking to collaborate on open sources
 - 💬 Talk to me about: Physics, Philosophy, Anime, Film Critics and story building and coding
