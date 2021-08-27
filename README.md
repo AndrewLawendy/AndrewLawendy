@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Andrew
+Hi there 👋 my name is Andrew
 
 ## I'm a self taught software engineer and a pet dad 🐶
 
@@ -11,15 +11,16 @@
 
 <br />
 
-### Contact me:
+### Contact me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Andrew%20Lawendy-0a66c2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-lawendy "Connect on LinkedIn")
 [![Codepen Badge](https://img.shields.io/badge/-Andrew%20Lawendy-000?logo=Codepen&logoColor=white)](https://codepen.io/andrew-lawendy "Connect on Codepen")
-[![Twitter Badge](https://img.shields.io/badge/-Andrew%20Lawendy-1d9bf0?logo=Twitter&logoColor=white)](https://twitter.com/andrew_lawendy "Connect on Codepen")
+[![Behance Badge](https://img.shields.io/badge/-Andrew%20Lawendy-1769FF?logo=Behance&logoColor=white)](https://www.behance.net/androhani/ "Connect on Behance")
+[![Linkedin Badge](https://img.shields.io/badge/-Andrew%20Lawendy-0A66C2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-lawendy "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-Andrew%20Lawendy-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/andrew_lawendy "Connect on Codepen")
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,3 +36,14 @@
 <img align="left" alt="Redux" title="Redux" width="26px" src="https://redux.js.org/img/favicon/favicon.ico" />
 <img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br />
+<br />
+
+### My GitHub account details ⚡
+
+<img alt="Andrew Lawendy's GitHub Stats" src="https://github-readme-stats-murex-two.vercel.app/api?username=AndrewLawendy&show_icons=true&count_private=true&include_all_commits=true"/>
+
+<br />
+
+<img alt="Andrew Lawendy's Top Languages" src="https://github-readme-stats-murex-two.vercel.app/api/top-langs/?username=AndrewLawendy&layout=compact">
