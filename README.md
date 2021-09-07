@@ -10,6 +10,7 @@ Hi there 👋 my name is Andrew
 - 👯 I’m looking to collaborate on open sources
 - 💬 Talk to me about: Physics, Philosophy, Anime, Film Critics and story building and coding
 - ⚡ Fun fact: I speak 3 languages (Arabic, French and English)
+- 🤹‍♂️ Contributor in [Exercism](https://exercism.org/profiles/AndrewLawendy)
 
 <br />
 
