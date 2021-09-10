@@ -19,7 +19,7 @@ Hi there 👋 my name is Andrew
 [![Codepen Badge](https://img.shields.io/badge/-Andrew%20Lawendy-000?logo=Codepen&logoColor=white)](https://codepen.io/andrew-lawendy "Connect on Codepen")
 [![Behance Badge](https://img.shields.io/badge/-Andrew%20Lawendy-1769FF?logo=Behance&logoColor=white)](https://www.behance.net/androhani/ "Connect on Behance")
 [![Linkedin Badge](https://img.shields.io/badge/-Andrew%20Lawendy-0A66C2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-lawendy "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-Andrew%20Lawendy-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/andrew_lawendy "Connect on Codepen")
+[![Twitter Badge](https://img.shields.io/badge/-Andrew%20Lawendy-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/andrew_lawendy "Connect on Twitter")
 
 <br />
 
