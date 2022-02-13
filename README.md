@@ -8,9 +8,10 @@ Hi there 👋 my name is Andrew
 
 - ✍ Founder of [CSS Guru](https://www.cssguru.org/)
 - 👯 I’m looking to collaborate on open sources
-- 💬 Talk to me about: Physics, Philosophy, Anime, Film Critics and story building and coding
+- 💬 Talk to me about: physics, philosophy, anime, film critics and story building, and coding
 - ⚡ Fun fact: I speak 3 languages (Arabic, French and English)
 - 🤹‍♂️ Contributor in [Exercism](https://exercism.org/profiles/AndrewLawendy)
+- 📦 Maintainer of [npm packages](https://www.npmjs.com/~andrew-lawendy)
 
 <br />
 
